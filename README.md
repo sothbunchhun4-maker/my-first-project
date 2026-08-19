@@ -1,2 +1,2 @@
 # my-first-project
-learning about the  javascript
+Hello this is my first project
